@@ -1,0 +1,50 @@
+body{
+    background-image: url("/static/images/background.jpg"); 
+    height: 100%; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 10px; 
+    margin-bottom: auto;
+}
+
+.route{
+    margin-right: 40px;
+}
+
+.error-message {
+    color: red;
+    display: none;
+    margin-top: 5px;
+}
+
+.form-container {
+    width: 250px; /* Atur lebar form untuk menambahkan ruang antara input dan pesan kesalahan */
+}
+
+.namaInput{
+    background-color: #3A9BDC;
+    color: black;
+}
+
+.judul{
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Public Sans', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 300;
+}
+
+.bg-form{
+    background-color: #3A9BDC ;
+}
+
+.clrbutton{
+    color: black;
+}
